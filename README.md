@@ -17,7 +17,7 @@ To run the code:
 
 `java -jar SimpleSearch.jar %DIRECTORY_PATH%`
 
-DIRECTORY_PATH: e.g.: /Users/Documents/Adevinta/Searcher
+DIRECTORY_PATH: e.g.: /Users/Documents/Searcher
 
 
 **Assumptions**
