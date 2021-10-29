@@ -1,5 +1,5 @@
 # SimpleSearch
-Adevinta Simple Search Coding Challenge
+Simple Search Coding Challenge
 
 **Build The Code**
 
